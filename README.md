@@ -1,4 +1,4 @@
-#Sobre mim
+##Sobre mim
 
 - 🔭 Atualmente estou trabalhando fora da area de programação porem pretendo entrar o mais breve possivel kk
 - 🌱 Atualmente estou aprendendo Front-end
