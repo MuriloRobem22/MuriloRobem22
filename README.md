@@ -4,7 +4,7 @@
  <div align="center">
 <a href="https://github.com/MuriloRobem22">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRobem22&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloRobem22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloRobem22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
 - 🔭 Atualmente estou trabalhando fora da área de programação, porém estou estudando bastante para que o mais breve possivel eu consiga ingressar nesta área. Dá pra se dizer que estou em uma transição de carreira kk.
@@ -20,7 +20,7 @@
  <a href="https://web.facebook.com/profile.php?id=100004333126689" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
  
-![Snake animation](https://github.com/MuriloRobem22/MuriloRobem22/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/MuriloRobem22/MuriloRobem22/blob/output/github-contribution-grid-snake.svg)
 
 ## Ferramentas e Tecnologias
 
